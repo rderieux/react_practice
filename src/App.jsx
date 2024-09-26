@@ -1,5 +1,6 @@
 import AddButton from "./AddButton";
-import "./App.css";
+import "./tic-tac-toe/App.css";
+import Square from "./tic-tac-toe/App";
 
 function App() {
   return (

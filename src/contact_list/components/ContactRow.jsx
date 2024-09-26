@@ -1,5 +1,3 @@
-import ContactList from "./ContactList";
-
 export default function ContactRow({ contact }) {
   return (
     <>
